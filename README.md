@@ -21,10 +21,10 @@ This lab shows how to implement on-premises Active Directory within Azure Virtua
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Create VM domain controller and VM cient (Windows 10)
+- Install active directory domain services into domain controller
+- Create OUs, admin, and normal user accounts with desirable permissions  
+- Attempt logins with new user accounts
 
 <h2>Deployment and Configuration Steps</h2>
 
